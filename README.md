@@ -7,11 +7,11 @@ A Computer Engineering graduate with a passion for programming and all things re
 
 ## Experience:
 - 5+ years experience programming and developing projects in various languages.  
-- Extensive experience in Python and Javascript.  
-- Full stack programming.  
+- Deep understanding of data structures and algorithms
+- Experience in a wide range of technical skills including Full Stack programming, databases, networking standards, web and mobile applications
 
 ## Languages and tools:
-<img src="https://img.icons8.com/color/96/000000/python.png"/> <img src="https://img.icons8.com/color/96/000000/javascript.png"/> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/96/000000/css3.png"/> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/><img src="https://img.icons8.com/color/96/000000/django.png"/> <img src="https://img.icons8.com/nolan/96/flask.png"/> <img src="https://img.icons8.com/fluent/96/000000/swift.png"/> <img src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/nolan/48/flask.png"/> <img src="https://img.icons8.com/fluent/48/000000/swift.png"/> <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 <br>
 
 ## Github stats
