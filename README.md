@@ -3,7 +3,7 @@
 ### I'm Mykal Bailey,
 
 - Life long learner.  
-- I enjoy to programming and stuff.  
+- I enjoy programming and stuff.  
   
 ### Connect with me: [<img target ="_blank" alt="mykalBailey | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
 ## Languages and tools:
